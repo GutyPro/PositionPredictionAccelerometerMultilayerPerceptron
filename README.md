@@ -1,0 +1,5 @@
+# PositionPredictionAccelerometerMultilayerPerceptron
+multilayer perceptron position determining
+public file
+Christian Gutierrez
+Universidad Politecnica Salesiana
